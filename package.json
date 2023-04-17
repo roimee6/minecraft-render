@@ -32,7 +32,7 @@
     "canvas": "~2.9.1",
     "commander": "~9.3.0",
     "crc": "~4.1.1",
-    "@11ways/canvas-webgl": "~0.3.0",
+    "node-canvas-webgl": "github:akira-cn/node-canvas-webgl",
     "node-stream-zip": "~1.15.0",
     "three": "~0.141.0",
     "jsdom-global": "~3.0.2",
